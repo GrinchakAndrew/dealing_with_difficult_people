@@ -126,13 +126,13 @@
 		
 		@media (max-width: 750px) {
 			  #leftbar {
-				max-width: 30%;
+				max-width: 225px;
 			}
 		}
 		
 		@media (max-width: 600px) {
 			  #leftbar {
-				max-width: 30%;
+				max-width: 225px;
 			}
 		}
 		
